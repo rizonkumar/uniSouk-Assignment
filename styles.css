@@ -436,7 +436,7 @@ p {
 .hero-text {
   max-width: 30rem;
   margin: 0 auto 3rem;
-  color: var(--gray-500);
+  color: var(--gray-400);
   font-size: 1rem;
   line-height: 1.7;
 }
@@ -505,7 +505,7 @@ p {
 .company-logo {
   opacity: 1;
   transition: none;
-  height: 22px;
+  height: 50px;
   width: auto;
 }
 .company-logo:hover {
